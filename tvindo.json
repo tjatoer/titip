@@ -3,132 +3,132 @@
     "judul": "B-Sport 1",
     "info": "B-Sport 1",
     "link_tv": "http://93.174.93.84:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDE3IDI6NDg6MDUgQU0maGFzaF92YWx1ZT1EbGhoS2lzOXBWZmRVeG1QMm11bkxRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTY2Ljc5JnN0cm1fbGVuPTEz",
-    "image_url": "http://marmud.com/tvindo/angga/bsport1.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/B-Sport%201.png"
   },
   {
     "judul": "B-Sport 2",
     "info": "B-Sport 2 ",
     "link_tv": "http://93.174.93.84:8081/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDE3IDI6NDg6MzQgQU0maGFzaF92YWx1ZT1hRnkxYURjS1BrRVdaay82TzBLRUp3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTY2Ljc5JnN0cm1fbGVuPTEz",
-    "image_url": "http://marmud.com/tvindo/angga/bsport2.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/B-Sport%202.png"
   },
   {
     "judul": "B-Sport 3",
     "info": "B-Sport 3 ",
     "link_tv": "http://93.174.93.84:8081/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDE3IDI6NDg6NDcgQU0maGFzaF92YWx1ZT1OSGU2SCtDYlQrTDQxOUNEVE1ma2ZBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTY2Ljc5JnN0cm1fbGVuPTEz",
-    "image_url": "http://marmud.com/tvindo/angga/bsport3.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/B-Sport%203.png"
   },
   {
     "judul": "KompasTV",
     "info": "Kompas Berita Live Streaming",
     "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/KOMPASTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/KompasTV.png"
   },
   {
     "judul": "MNCTV",
     "info": "TV Film dan Edukasi",
    "link_tv": "http://live.metube.id/tv/channel2000022/index1024.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/MNCTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/MNCTV.png"
   },
   {
     "judul": "RTV",
     "info": "Rajawali Televisi Indonesia",
    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/chunklist_b846000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/RTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/RTV.png"
   },
   {
     "judul": "NET",
     "info": "Siaran TV Masakini",
     "link_tv": "https://r3---sn-uigxxn0h5ug5-230e.googlevideo.com/videoplayback/id/AlKoAjWP348.1/itag/136/source/yt_live_broadcast/requiressl/yes/ei/DZ_jWOC2EqX4oQPaqK_oCg/gcr/id/playlist_type/DVR/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/noclen/1/dur/5.000/signature/48509D3976F42CFA36DC4C8EF34016D56B32FD92.4F5508B2B20A1F7DCF6AEF1F55B3C4B3C960DCF9/key/cms1/upn/ZrLVousZ8eU/cpn/uEzj5grfelHKjVij/mpd_version/4/pacing/0/ip/202.67.44.21/ipbits/0/expire/1491333997/sparams/cmbypass,dur,ei,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,noclen,pcm2cms,pl,playlist_type,ratebypass,requiressl,source/mm/32/mn/sn-uigxxn0h5ug5-230e/ms/lv/mt/1491312312/mv/m/pcm2cms/yes/pl/24/",
-    "image_url": "http://marmud.com/tvindo/angga/NETTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/NET.png"
   },
   {
     "judul": "Indosiar",
     "info": "Nonton Liga Inggris dan Lainnya",
     "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/chunklist_b846000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/INDOSIAR.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/Indosiar.png"
   },
   {
     "judul": "RCTI",
     "info": "Sinetron Terbaik dan Berita",
      "link_tv": "http://live.metube.id/tv/channel3000004/index1000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/RCTI.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/RCTI.png"
   },
   {
     "judul": "SCTV",
     "info": "Nonton FTV dan Sinetron",
     "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/chunklist_b846000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/SCTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/SCTV.png"
   },
   {
     "judul": "GlobalTV",
     "info": "Nonton Film Oke di Global",
    "link_tv": "http://live.metube.id/tv/channel2000041/index256.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/GLOBALTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/GlobalTV.png"
   },
   {
     "judul": "TRANS7",
     "info": "TV Rekreasi dan Inovatif",
   "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/chunklist_b846000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/TRANS7.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/TRANS7.png"
   },
   {
     "judul": "TRANSTV",
     "info": "Film BOX Office Streaming",
    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/chunklist_b846000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/TRANSTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/TRANSTV.png"
   },
   {
     "judul": "ANTV",
     "info": "Nonton Film India",
     "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:antv.smil/chunklist_b846000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/ANTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/ANTV.png"
   },
   {
     "judul": "TVOne",
     "info": "Nonton Berita Live Streaming",
      "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/chunklist_b846000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/TVONE.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/TVOne.png"
   },
   {
     "judul": "METROTV",
     "info": "Berita 24 Jam Metro",
    "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/chunklist_b846000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/METROTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/METROTV.png"
   },
   {
     "judul": "iNewsTV",
     "info": "Streaming Berita Live",
   "link_tv": "http://live.metube.id/tv/channel3000005/index2000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/INEWSTV.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/iNewsTV.png"
   },
   {
     "judul": "TVRI",
     "info": "Berita Nasional Indonesia Raya",
     "link_tv": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/TVRI.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/TVRI.png"
   },
   {
     "judul": "Berita SATU",
     "info": "Berita Indonesia Terbaik",
     "link_tv": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/BERITASATU.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/Berita%20SATU.png"
   },
  {
     "judul": "Euro Sport",
     "info": "Nonton Euro Sport ",
     "link_tv": "http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/eusport.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/Euro%20Sport.png"
   },
   {
     "judul": "Dangdut TV",
     "info": "Ayo Nonton Dangdut  ",
     "link_tv": "https://e19-us-1.nim.mivo.tv/sedz1j6exe/dangdutz_all/sedz1j6exe/dangdutz_360p/chunks.m3u8?nimblesessionid=317651627&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxNiAyOjEwOjMwIEFNJmhhc2hfdmFsdWU9L2IyMWpMMy9kMWxtaGNSV3ZRZy9uQT09JnZhbGlkbWludXRlcz0xMCZpZD1FVjE1NV80MF8xMTJfNTNfMzZfNjBfNDF8djQtd2VifDExLzI1LzIwMTYgMjoxMCBBTXwzNi44MC44My4xNg==",
-    "image_url": "http://marmud.com/tvindo/angga/dangduttv.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/Dangdut%20TV.png"
   },
   {
     "judul": "Anak-Anak",
     "info": "Channel Kartun Anak - Anak  ",
     "link_tv": "http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8",
-    "image_url": "http://marmud.com/tvindo/angga/anak.png"
+    "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/Anak-Anak.png"
   }
 ]
