@@ -1,6 +1,18 @@
 {"ads":"false",
 	"data": [
 		{
+			"name": "DELUXE BBM",
+			"link": "https://drive.google.com/uc?export=download&id=0B5JxV2W2t-f9dVExUjVpYnFrQlk",
+			"fitur": "All Premium Features Available",
+			"imageurl": "https://3.bp.blogspot.com/-BLRDNcgbLMg/WQsn7GXKI6I/AAAAAAAAAGw/NA-k0WlpY4gYcxoHb4Gae381Vuexpg-GwCLcB/s640/DELUXE%2Bv1.0.0.png"
+		},
+		{
+			"name": "DELUXE BBM CLONE",
+			"link": "https://drive.google.com/uc?export=download&id=0B5JxV2W2t-f9Q1pLZFBEaHpaVUk",
+			"fitur": "All Premium Features Available",
+			"imageurl": "https://3.bp.blogspot.com/-BLRDNcgbLMg/WQsn7GXKI6I/AAAAAAAAAGw/NA-k0WlpY4gYcxoHb4Gae381Vuexpg-GwCLcB/s640/DELUXE%2Bv1.0.0.png"
+		},
+		{
 			"name": "MILANISTI",
 			"link": "https://drive.google.com/uc?export=download&id=0B5OQQfHFhx4UYmJZVW9CdFFtbW8",
 			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
