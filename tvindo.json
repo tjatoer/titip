@@ -21,13 +21,13 @@
               {
                 "judul": "KompasTV",
                 "info": "Kompas Berita Live Streaming",
-                "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8",
+                "link_tv": "https://cdn-livetv1.metube.id/hls/kompastv_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/KompasTV.png"
               },
               {
                 "judul": "MNCTV",
                 "info": "TV Film dan Edukasi",
-               "link_tv": "http://live.metube.id/tv/channel2000022/index1024.m3u8",
+               "link_tv": "https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/MNCTV.png"
               },
               {
@@ -45,7 +45,7 @@
               {
                 "judul": "Indosiar",
                 "info": "Nonton Liga Inggris dan Lainnya",
-                "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/chunklist_b846000.m3u8",
+                "link_tv": "https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/Indosiar.png"
               },
               {
@@ -57,7 +57,7 @@
               {
                 "judul": "SCTV",
                 "info": "Nonton FTV dan Sinetron",
-                "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/chunklist_b846000.m3u8",
+                "link_tv": "https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/SCTV.png"
               },
               {
@@ -69,37 +69,37 @@
               {
                 "judul": "TRANS7",
                 "info": "TV Rekreasi dan Inovatif",
-              "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/chunklist_b846000.m3u8",
+              "link_tv": "https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/TRANS7.png"
               },
               {
                 "judul": "TRANSTV",
                 "info": "Film BOX Office Streaming",
-               "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/chunklist_b846000.m3u8",
+               "link_tv": "https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/TRANSTV.png"
               },
               {
                 "judul": "ANTV",
                 "info": "Nonton Film India",
-                "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:antv.smil/chunklist_b846000.m3u8",
+                "link_tv": "https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/ANTV.png"
               },
               {
                 "judul": "TVOne",
                 "info": "Nonton Berita Live Streaming",
-                 "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/chunklist_b846000.m3u8",
+                 "link_tv": "https://cdn-livetv1.metube.id/hls/tvone_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/TVOne.png"
               },
               {
                 "judul": "METROTV",
                 "info": "Berita 24 Jam Metro",
-               "link_tv": "https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/chunklist_b846000.m3u8",
+               "link_tv": "https://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/METROTV.png"
               },
               {
                 "judul": "iNewsTV",
                 "info": "Streaming Berita Live",
-              "link_tv": "http://live.metube.id/tv/channel3000005/index2000.m3u8",
+              "link_tv": "https://cdn-livetv1.metube.id/hls/inewstv_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/iNewsTV.png"
               },
               {
@@ -131,6 +131,24 @@
                 "info": "Channel Kartun Anak - Anak  ",
                 "link_tv": "http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/Anak-Anak.png"
+              },
+              {
+                "judul": "JakTV",
+                "info": "Jakarta TV",
+                "link_tv": "https://cdn-livetv1.metube.id/hls/jaktv_480/index.m3u8",
+                "image_url": "-"
+              },
+              {
+                "judul": "JTV",
+                "info": "Jawa Post TV",
+                "link_tv": "https://cdn-livetv1.metube.id/hls/jtv_480/index.m3u8",
+                "image_url": "-"
+              },
+              {
+                "judul": "IDX Channel",
+                "info": "IDX Channel",
+                "link_tv": "https://cdn-livetv1.metube.id/hls/idxchannel_480/index.m3u8",
+                "image_url": "-"
               }
             ]
 }
