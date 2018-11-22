@@ -51,7 +51,7 @@
               {
                 "judul": "RCTI",
                 "info": "Sinetron Terbaik dan Berita",
-                 "link_tv": "http://live.metube.id/tv/channel3000004/index1000.m3u8",
+                 "link_tv": "https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/RCTI.png"
               },
               {
