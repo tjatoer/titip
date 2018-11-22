@@ -63,7 +63,7 @@
               {
                 "judul": "GlobalTV",
                 "info": "Nonton Film Oke di Global",
-               "link_tv": "http://live.metube.id/tv/channel2000041/index256.m3u8",
+               "link_tv": "https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8",
                 "image_url": "https://github.com/tjatoer/titip/raw/master/ss%20tv/GlobalTV.png"
               },
               {
