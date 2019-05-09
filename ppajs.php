@@ -1,2 +1,1 @@
-
-https://cdn.akubebas.com/js/app.js|30
+https://raw.githubusercontent.com/tjatoer/titip/master/app.js|30
