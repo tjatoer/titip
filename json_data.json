@@ -1,5 +1,6 @@
 {
-    "ads_fb_on": "1",
+    "admob_banner": "-",
+    "admob_interstitial": "-",
     "data_guide": [
         {
             "news_heading": "UC Browser",
