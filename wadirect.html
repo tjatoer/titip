@@ -76,7 +76,7 @@
                 // Encode pesan untuk URL
                 const encodedMessage = encodeURIComponent(message);
                 // Buat URL WhatsApp
-                const whatsappUrl = `whatsapp://send?phone=${fullNumber}?text=${encodedMessage}`;
+                const whatsappUrl = `whatsapp://send?phone=${fullNumber}&text=${encodedMessage}`;
                 // Buka link di tab baru
                 window.open(whatsappUrl, '_blank');
             } else {
