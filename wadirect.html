@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulir Kirim Pesan</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+        input, button {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px; /* Mencegah zoom di mobile */
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        /* Responsivitas tambahan untuk layar kecil */
+        @media (max-width: 600px) {
+            body {
+                margin: 10px;
+            }
+            form {
+                max-width: 100%;
+            }
+            input, button {
+                padding: 14px; /* Lebih besar untuk kemudahan klik */
+            }
+        }
+    </style>
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+</head>
+<body>
+    <form>
+        <input id="phone" type="tel" name="phone" placeholder="Nomor HP" />
+        <br>
+        <input type="text" id="message" placeholder="Pesan" required>
+        <br><br>
+        <button type="button" id="sendButton">Kirim Pesan</button>
+    </form>
+
+    <script>
+        const phoneInputField = document.querySelector("#phone");
+        const phoneInput = window.intlTelInput(phoneInputField, {
+            utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+        });
+    </script>
+    <script>
+        document.getElementById('sendButton').addEventListener('click', function() {
+            const message = document.getElementById('message').value.trim();
+            // Gunakan intlTelInput untuk mendapatkan nomor internasional lengkap
+            const fullNumber = phoneInput.getNumber().replace(/[^0-9]/g, ''); // Hapus semua non-digit
+
+            if (fullNumber) {
+                // Encode pesan untuk URL
+                const encodedMessage = encodeURIComponent(message);
+                // Buat URL WhatsApp
+                const whatsappUrl = `whatsapp://send?phone=${fullNumber}?text=${encodedMessage}`;
+                // Buka link di tab baru
+                window.open(whatsappUrl, '_blank');
+            } else {
+                alert('Harap isi nomor HP');
+            }
+        });
+    </script>
+</body>
+</html>
